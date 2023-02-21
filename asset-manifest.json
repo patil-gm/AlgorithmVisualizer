@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AlgorithmVisualizer/static/css/main.6b98a97f.css",
+    "main.js": "/AlgorithmVisualizer/static/js/main.4d5cded1.js",
+    "static/js/787.ea1e93e0.chunk.js": "/AlgorithmVisualizer/static/js/787.ea1e93e0.chunk.js",
+    "static/media/gp3.png": "/AlgorithmVisualizer/static/media/gp3.8f2340d81113e4d729dc.png",
+    "static/media/casual-life-3d-reading.png": "/AlgorithmVisualizer/static/media/casual-life-3d-reading.50fb266eb2c41238b4b2.png",
+    "static/media/prime_no.png": "/AlgorithmVisualizer/static/media/prime_no.6729dbde9ef24e08e901.png",
+    "static/media/queen.png": "/AlgorithmVisualizer/static/media/queen.aefed2c957bc4ef0010d.png",
+    "static/media/sorting.png": "/AlgorithmVisualizer/static/media/sorting.0dc3839c9f1b4fba9c1a.png",
+    "index.html": "/AlgorithmVisualizer/index.html",
+    "static/media/team-shape.svg": "/AlgorithmVisualizer/static/media/team-shape.1f61b646ef96bc3ea57d.svg",
+    "main.6b98a97f.css.map": "/AlgorithmVisualizer/static/css/main.6b98a97f.css.map",
+    "main.4d5cded1.js.map": "/AlgorithmVisualizer/static/js/main.4d5cded1.js.map",
+    "787.ea1e93e0.chunk.js.map": "/AlgorithmVisualizer/static/js/787.ea1e93e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b98a97f.css",
+    "static/js/main.4d5cded1.js"
+  ]
+}

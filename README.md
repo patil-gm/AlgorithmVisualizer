@@ -1,4 +1,4 @@
-# CheckOut the Project @ [Algorithm Visualizer](https://patilgm.netlify.app/)
+CheckOut the Project @ [Algorithm Visualizer](https://patilgm.netlify.app/){:target="_blank"}.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

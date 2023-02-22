@@ -1,4 +1,4 @@
-CheckOut the Project @ [Algorithm Visualizer](https://patilgm.netlify.app/)    <a href="https://patilgm.netlify.app/" target="_blank">Opens in new tab</a>.
+CheckOut the Project @ [Algorithm Visualizer](https://patilgm.netlify.app/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
